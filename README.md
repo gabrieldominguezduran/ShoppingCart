@@ -4,6 +4,6 @@ Javascript shopping cart
 
 WIP
 
-## See it:
+### See it here:
 
 [Shopping Cart](https://gabrieldominguezduran.github.io/ShoppingCart/)
