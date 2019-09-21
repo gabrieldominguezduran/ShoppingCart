@@ -1,4 +1,9 @@
-# ShoppingCart
+# Shopping Cart
+
 Javascript shopping cart
+
 WIP
-https://gabrieldominguezduran.github.io/ShoppingCart/
+
+## See it:
+
+[Shopping Cart](https://gabrieldominguezduran.github.io/ShoppingCart/)
